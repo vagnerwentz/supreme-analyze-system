@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B71D80D1-1655-4054-B0CE-59F0E3817BB9}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Analyze.API/Program.cs">
+    <Files>
+      <File FileName="Analyze.API/Controllers/WeatherForecastController.cs" />
+      <File FileName="Analyze.API/Controllers/SignIn.cs" />
+      <File FileName="Analyze.API/Program.cs" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Analyze" expanded="True">
+            <Node name="Analyze.API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Analyze.API PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
